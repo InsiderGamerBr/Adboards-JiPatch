@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bill>
+	<bill path="model/bg/bill/billBody/bill_type_28/bill_nf.xml" />
+	<texlist path="model/bg/bill/euro/bill_texlist.xml"/>
+	<animedata path="model/bg/bill/euro/bill_anime.json"/>
+</bill>

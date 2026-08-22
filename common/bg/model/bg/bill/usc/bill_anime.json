@@ -1,0 +1,133 @@
+{
+	// 繝・・繧ｿ縺ｮ繝舌・繧ｸ繝ｧ繝ｳ(繝輔か繝ｼ繝槭ャ繝医′螟峨ｏ繧句庄閭ｽ諤ｧ縺後≠繧九・縺ｧ)
+	"version" : 0.02,
+	"animations" : [
+		[
+			// 開始アニメ
+			{
+				"animeTime" :  10.0000 ,
+				"scrollType" : 0,
+				"scaleType" : 0,
+				"fadeType" : 0,
+				"fadeColor": [1.0000, 1.0000, 1.0000, 1.0000],
+				"keys" : [
+					{ "scroll" : 0.0000, "scale" : [1.0000, 1.0000], "fade" : 0.0000, "key" : 0.0000 },
+					{ "scroll" : 0.0000, "scale" : [1.0000, 1.0000], "fade" : 0.0000, "key" : 1.0000 }
+				]
+			},
+			// 終了アニメ
+			{
+				"animeTime" :  0.0000 ,
+				"scrollType" : 0,
+				"scaleType" : 0,
+				"fadeType" : 0,
+				"fadeColor": [1.0000, 1.0000, 1.0000, 1.0000],
+				"keys" : [
+					{ "scroll" : 0.0, "scale" : [1.0, 1.0], "fade" : 0.0, "key" : 0.0 },
+					{ "scroll" : 0.0, "scale" : [1.0, 1.0], "fade" : 0.0, "key" : 1.0 }
+				]
+			}
+		],
+		[
+			// 開始アニメ
+			{
+				"animeTime" : 0.0,
+				"scrollType" : 0,
+				"scaleType": 0,
+				"fadeType" : 0,
+				"fadeColor": [1.0, 1.0, 1.0, 1.0],
+				"keys" : [
+					{ "scroll" : 0.0, "scale" : [1.0, 1.0], "fade" : 0.0, "key" : 0.0 },
+					{ "scroll" : 0.0, "scale" : [1.0, 1.0], "fade" : 0.0, "key" : 1.0 }
+				]
+			},
+			// 終了アニメ
+			{
+				"animeTime" : 0.5,
+				"scrollType" : 0,
+				"scaleType": 0,
+				"fadeType" : 0,
+				"fadeColor": [1.0, 1.0, 1.0, 1.0],
+				"keys" : [
+					{ "scroll" : 0.0, "scale" : [1.0, 1.0], "fade" : 0.0, "key" : 0.0 },
+					{ "scroll" : 0.0, "scale" : [1.0, 1.0], "fade" : 0.5, "key" : 0.5 },
+					{ "scroll" : 0.0, "scale" : [1.0, 1.0], "fade" : 1.0, "key" : 1.0 }
+				]
+			}
+		]
+	],
+	"faceData" : [
+		{
+			"dir" : 0,
+			"data" : [
+			]
+		},
+		{
+			"dir" : 1,
+			"data" : [
+{"animeList" : [1], "texList" : ["bill_face_usc_02_05", "bill_face_usc_12_03", "bill_face_usc_04_13", "bill_face_usc_05_12", "bill_face_usc_06_03", "bill_face_usc_07_10", "bill_face_usc_08_08", "bill_face_usc_09_03", "bill_face_usc_02_05", "bill_face_usc_12_03", "bill_face_usc_04_13", "bill_face_usc_05_05", "bill_face_usc_06_03", "bill_face_usc_07_03", "bill_face_usc_08_08"], "idleTime" : 17.0000 }, // 0
+{"animeList" : [1], "texList" : ["bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_06", "bill_face_usc_06_01", "bill_face_usc_07_04", "bill_face_usc_08_06", "bill_face_usc_09_01", "bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_03", "bill_face_usc_06_01", "bill_face_usc_07_01", "bill_face_usc_08_06"], "idleTime" : 17.0000 }, // 1
+{"animeList" : [1], "texList" : ["bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_07", "bill_face_usc_06_02", "bill_face_usc_07_05", "bill_face_usc_08_05", "bill_face_usc_09_02", "bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_04", "bill_face_usc_06_02", "bill_face_usc_07_01", "bill_face_usc_08_05"], "idleTime" : 17.0000 }, // 2
+{"animeList" : [1], "texList" : ["bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_09", "bill_face_usc_05_06", "bill_face_usc_06_01", "bill_face_usc_07_04", "bill_face_usc_08_05", "bill_face_usc_09_01", "bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_09", "bill_face_usc_05_01", "bill_face_usc_06_01", "bill_face_usc_07_01", "bill_face_usc_08_05"], "idleTime" : 17.0000 }, // 3
+{"animeList" : [1], "texList" : ["bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_10", "bill_face_usc_05_07", "bill_face_usc_06_02", "bill_face_usc_07_05", "bill_face_usc_08_05", "bill_face_usc_09_02", "bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_10", "bill_face_usc_05_02", "bill_face_usc_06_02", "bill_face_usc_07_01", "bill_face_usc_08_05"], "idleTime" : 17.0000 }, // 4
+{"animeList" : [1], "texList" : ["bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_08", "bill_face_usc_06_01", "bill_face_usc_07_06", "bill_face_usc_08_05", "bill_face_usc_09_01", "bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_03", "bill_face_usc_06_01", "bill_face_usc_07_01", "bill_face_usc_08_05"], "idleTime" : 17.0000 }, // 5
+{"animeList" : [1], "texList" : ["bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_09", "bill_face_usc_06_02", "bill_face_usc_07_07", "bill_face_usc_08_05", "bill_face_usc_09_02", "bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_04", "bill_face_usc_06_02", "bill_face_usc_07_01", "bill_face_usc_08_05"], "idleTime" : 17.0000 }, // 6
+{"animeList" : [1], "texList" : ["bill_face_usc_02_03", "bill_face_usc_12_01", "bill_face_usc_04_11", "bill_face_usc_05_10", "bill_face_usc_06_01", "bill_face_usc_07_08", "bill_face_usc_08_05", "bill_face_usc_09_01", "bill_face_usc_02_03", "bill_face_usc_12_01", "bill_face_usc_04_11", "bill_face_usc_05_01", "bill_face_usc_06_01", "bill_face_usc_07_01", "bill_face_usc_08_05"], "idleTime" : 17.0000 }, // 7
+{"animeList" : [1], "texList" : ["bill_face_usc_02_04", "bill_face_usc_12_02", "bill_face_usc_04_12", "bill_face_usc_05_11", "bill_face_usc_06_02", "bill_face_usc_07_09", "bill_face_usc_08_05", "bill_face_usc_09_02", "bill_face_usc_02_04", "bill_face_usc_12_02", "bill_face_usc_04_12", "bill_face_usc_05_02", "bill_face_usc_06_02", "bill_face_usc_07_01", "bill_face_usc_08_05"], "idleTime" : 17.0000 }, // 8
+{"animeList" : [1], "texList" : ["bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_06", "bill_face_usc_06_01", "bill_face_usc_07_04", "bill_face_usc_08_05", "bill_face_usc_09_01", "bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_03", "bill_face_usc_06_01", "bill_face_usc_07_01", "bill_face_usc_08_05"], "idleTime" : 17.0000 }, // 9
+{"animeList" : [1], "texList" : ["bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_07", "bill_face_usc_06_02", "bill_face_usc_07_05", "bill_face_usc_08_07", "bill_face_usc_09_02", "bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_04", "bill_face_usc_06_02", "bill_face_usc_07_01", "bill_face_usc_08_07"], "idleTime" : 17.0000 }, // 10
+{"animeList" : [0], "texList" : ["bill_face_usc_11_01"], "idleTime" : 0.0000 }, // 11
+{"animeList" : [0], "texList" : ["bill_face_usc_11_02"], "idleTime" : 0.0000 }, // 12
+{"animeList" : [1], "texList" : ["bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_03", "bill_face_usc_05_06", "bill_face_usc_06_01", "bill_face_usc_07_04", "bill_face_usc_08_02", "bill_face_usc_09_01", "bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_03", "bill_face_usc_05_03", "bill_face_usc_06_01", "bill_face_usc_07_02", "bill_face_usc_08_02"], "idleTime" : 17.0000 }, // 13
+{"animeList" : [1], "texList" : ["bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_04", "bill_face_usc_05_07", "bill_face_usc_06_02", "bill_face_usc_07_05", "bill_face_usc_08_01", "bill_face_usc_09_02", "bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_04", "bill_face_usc_05_04", "bill_face_usc_06_02", "bill_face_usc_07_02", "bill_face_usc_08_01"], "idleTime" : 17.0000 }, // 14
+{"animeList" : [1], "texList" : ["bill_face_usc_02_03", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_08", "bill_face_usc_06_01", "bill_face_usc_07_06", "bill_face_usc_08_01", "bill_face_usc_09_01", "bill_face_usc_02_03", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_01", "bill_face_usc_06_01", "bill_face_usc_07_02", "bill_face_usc_08_01"], "idleTime" : 17.0000 }, // 15
+{"animeList" : [1], "texList" : ["bill_face_usc_02_04", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_09", "bill_face_usc_06_02", "bill_face_usc_07_07", "bill_face_usc_08_01", "bill_face_usc_09_02", "bill_face_usc_02_04", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_02", "bill_face_usc_06_02", "bill_face_usc_07_02", "bill_face_usc_08_01"], "idleTime" : 17.0000 }, // 16
+{"animeList" : [1], "texList" : ["bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_05", "bill_face_usc_05_10", "bill_face_usc_06_01", "bill_face_usc_07_08", "bill_face_usc_08_01", "bill_face_usc_09_01", "bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_05", "bill_face_usc_05_03", "bill_face_usc_06_01", "bill_face_usc_07_02", "bill_face_usc_08_01"], "idleTime" : 17.0000 }, // 17
+{"animeList" : [1], "texList" : ["bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_06", "bill_face_usc_05_11", "bill_face_usc_06_02", "bill_face_usc_07_09", "bill_face_usc_08_01", "bill_face_usc_09_02", "bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_06", "bill_face_usc_05_04", "bill_face_usc_06_02", "bill_face_usc_07_02", "bill_face_usc_08_01"], "idleTime" : 17.0000 }, // 18
+{"animeList" : [1], "texList" : ["bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_06", "bill_face_usc_06_01", "bill_face_usc_07_04", "bill_face_usc_08_01", "bill_face_usc_09_01", "bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_01", "bill_face_usc_06_01", "bill_face_usc_07_02", "bill_face_usc_08_01"], "idleTime" : 17.0000 }, // 19
+{"animeList" : [1], "texList" : ["bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_07", "bill_face_usc_06_02", "bill_face_usc_07_05", "bill_face_usc_08_01", "bill_face_usc_09_02", "bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_02", "bill_face_usc_06_02", "bill_face_usc_07_02", "bill_face_usc_08_01"], "idleTime" : 17.0000 }, // 20
+{"animeList" : [1], "texList" : ["bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_07", "bill_face_usc_05_06", "bill_face_usc_06_01", "bill_face_usc_07_04", "bill_face_usc_08_01", "bill_face_usc_09_01", "bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_07", "bill_face_usc_05_03", "bill_face_usc_06_01", "bill_face_usc_07_02", "bill_face_usc_08_01"], "idleTime" : 17.0000 }, // 21
+{"animeList" : [1], "texList" : ["bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_08", "bill_face_usc_05_07", "bill_face_usc_06_02", "bill_face_usc_07_05", "bill_face_usc_08_03", "bill_face_usc_09_02", "bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_08", "bill_face_usc_05_04", "bill_face_usc_06_02", "bill_face_usc_07_02", "bill_face_usc_08_03"], "idleTime" : 17.0000 }, // 22
+{"animeList" : [1], "texList" : ["bill_face_usc_02_05", "bill_face_usc_12_03", "bill_face_usc_04_13", "bill_face_usc_05_12", "bill_face_usc_06_03", "bill_face_usc_07_10", "bill_face_usc_08_04", "bill_face_usc_09_03", "bill_face_usc_02_05", "bill_face_usc_12_03", "bill_face_usc_04_13", "bill_face_usc_05_05", "bill_face_usc_06_03", "bill_face_usc_07_03", "bill_face_usc_08_04"], "idleTime" : 17.0000 } // 23
+			]
+		},
+		{
+			"dir" : 2,
+			"data" : [
+{"animeList" : [1], "texList" : ["bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_11", "bill_face_usc_05_06", "bill_face_usc_06_01", "bill_face_usc_07_04", "bill_face_usc_08_06", "bill_face_usc_09_01", "bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_11", "bill_face_usc_05_01", "bill_face_usc_06_01", "bill_face_usc_07_01", "bill_face_usc_08_06"], "idleTime" : 17.0000 }, // 0
+{"animeList" : [1], "texList" : ["bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_12", "bill_face_usc_05_07", "bill_face_usc_06_02", "bill_face_usc_07_05", "bill_face_usc_08_05", "bill_face_usc_09_02", "bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_12", "bill_face_usc_05_02", "bill_face_usc_06_02", "bill_face_usc_07_01", "bill_face_usc_08_05"], "idleTime" : 17.0000 }, // 1
+{"animeList" : [1], "texList" : ["bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_08", "bill_face_usc_06_01", "bill_face_usc_07_06", "bill_face_usc_08_05", "bill_face_usc_09_01", "bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_03", "bill_face_usc_06_01", "bill_face_usc_07_01", "bill_face_usc_08_05"], "idleTime" : 17.0000 }, // 2
+{"animeList" : [1], "texList" : ["bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_09", "bill_face_usc_06_02", "bill_face_usc_07_07", "bill_face_usc_08_05", "bill_face_usc_09_02", "bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_04", "bill_face_usc_06_02", "bill_face_usc_07_01", "bill_face_usc_08_05"], "idleTime" : 17.0000 }, // 3
+{"animeList" : [1], "texList" : ["bill_face_usc_02_03", "bill_face_usc_12_01", "bill_face_usc_04_03", "bill_face_usc_05_10", "bill_face_usc_06_01", "bill_face_usc_07_08", "bill_face_usc_08_05", "bill_face_usc_09_01", "bill_face_usc_02_03", "bill_face_usc_12_01", "bill_face_usc_04_03", "bill_face_usc_05_01", "bill_face_usc_06_01", "bill_face_usc_07_01", "bill_face_usc_08_05"], "idleTime" : 17.0000 }, // 4
+{"animeList" : [1], "texList" : ["bill_face_usc_02_04", "bill_face_usc_12_02", "bill_face_usc_04_04", "bill_face_usc_05_11", "bill_face_usc_06_02", "bill_face_usc_07_09", "bill_face_usc_08_05", "bill_face_usc_09_02", "bill_face_usc_02_04", "bill_face_usc_12_02", "bill_face_usc_04_04", "bill_face_usc_05_02", "bill_face_usc_06_02", "bill_face_usc_07_01", "bill_face_usc_08_05"], "idleTime" : 17.0000 }, // 5
+{"animeList" : [1], "texList" : ["bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_06", "bill_face_usc_06_01", "bill_face_usc_07_04", "bill_face_usc_08_05", "bill_face_usc_09_01", "bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_03", "bill_face_usc_06_01", "bill_face_usc_07_01", "bill_face_usc_08_05"], "idleTime" : 17.0000 }, // 6
+{"animeList" : [1], "texList" : ["bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_07", "bill_face_usc_06_02", "bill_face_usc_07_05", "bill_face_usc_08_05", "bill_face_usc_09_02", "bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_04", "bill_face_usc_06_02", "bill_face_usc_07_01", "bill_face_usc_08_05"], "idleTime" : 17.0000 }, // 7
+{"animeList" : [1], "texList" : ["bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_05", "bill_face_usc_05_08", "bill_face_usc_06_01", "bill_face_usc_07_06", "bill_face_usc_08_05", "bill_face_usc_09_01", "bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_05", "bill_face_usc_05_01", "bill_face_usc_06_01", "bill_face_usc_07_01", "bill_face_usc_08_05"], "idleTime" : 17.0000 }, // 8
+{"animeList" : [1], "texList" : ["bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_06", "bill_face_usc_05_09", "bill_face_usc_06_02", "bill_face_usc_07_07", "bill_face_usc_08_05", "bill_face_usc_09_02", "bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_06", "bill_face_usc_05_02", "bill_face_usc_06_02", "bill_face_usc_07_01", "bill_face_usc_08_05"], "idleTime" : 17.0000 }, // 9
+{"animeList" : [1], "texList" : ["bill_face_usc_02_03", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_10", "bill_face_usc_06_01", "bill_face_usc_07_08", "bill_face_usc_08_05", "bill_face_usc_09_01", "bill_face_usc_02_03", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_03", "bill_face_usc_06_01", "bill_face_usc_07_01", "bill_face_usc_08_05"], "idleTime" : 17.0000 }, // 10
+{"animeList" : [1], "texList" : ["bill_face_usc_02_04", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_11", "bill_face_usc_06_02", "bill_face_usc_07_09", "bill_face_usc_08_05", "bill_face_usc_09_02", "bill_face_usc_02_04", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_04", "bill_face_usc_06_02", "bill_face_usc_07_01", "bill_face_usc_08_05"], "idleTime" : 17.0000 }, // 11
+{"animeList" : [1], "texList" : ["bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_07", "bill_face_usc_05_06", "bill_face_usc_06_01", "bill_face_usc_07_04", "bill_face_usc_08_05", "bill_face_usc_09_01", "bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_07", "bill_face_usc_05_01", "bill_face_usc_06_01", "bill_face_usc_07_01", "bill_face_usc_08_05"], "idleTime" : 17.0000 }, // 12
+{"animeList" : [1], "texList" : ["bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_08", "bill_face_usc_05_07", "bill_face_usc_06_02", "bill_face_usc_07_05", "bill_face_usc_08_07", "bill_face_usc_09_02", "bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_08", "bill_face_usc_05_02", "bill_face_usc_06_02", "bill_face_usc_07_01", "bill_face_usc_08_07"], "idleTime" : 17.0000 } // 13
+			]
+		},
+		{
+			"dir" : 3,
+			"data" : [
+{"animeList" : [1], "texList" : ["bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_06", "bill_face_usc_06_01", "bill_face_usc_07_04", "bill_face_usc_08_02", "bill_face_usc_09_01", "bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_01", "bill_face_usc_06_01", "bill_face_usc_07_02", "bill_face_usc_08_02"], "idleTime" : 17.0000 }, // 0
+{"animeList" : [1], "texList" : ["bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_07", "bill_face_usc_06_02", "bill_face_usc_07_05", "bill_face_usc_08_01", "bill_face_usc_09_02", "bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_02", "bill_face_usc_06_02", "bill_face_usc_07_02", "bill_face_usc_08_01"], "idleTime" : 17.0000 }, // 1
+{"animeList" : [1], "texList" : ["bill_face_usc_02_03", "bill_face_usc_12_01", "bill_face_usc_04_09", "bill_face_usc_05_08", "bill_face_usc_06_01", "bill_face_usc_07_06", "bill_face_usc_08_01", "bill_face_usc_09_01", "bill_face_usc_02_03", "bill_face_usc_12_01", "bill_face_usc_04_09", "bill_face_usc_05_03", "bill_face_usc_06_01", "bill_face_usc_07_02", "bill_face_usc_08_01"], "idleTime" : 17.0000 }, // 2
+{"animeList" : [1], "texList" : ["bill_face_usc_02_04", "bill_face_usc_12_02", "bill_face_usc_04_10", "bill_face_usc_05_09", "bill_face_usc_06_02", "bill_face_usc_07_07", "bill_face_usc_08_01", "bill_face_usc_09_02", "bill_face_usc_02_04", "bill_face_usc_12_02", "bill_face_usc_04_10", "bill_face_usc_05_04", "bill_face_usc_06_02", "bill_face_usc_07_02", "bill_face_usc_08_01"], "idleTime" : 17.0000 }, // 3
+{"animeList" : [1], "texList" : ["bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_10", "bill_face_usc_06_01", "bill_face_usc_07_08", "bill_face_usc_08_01", "bill_face_usc_09_01", "bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_01", "bill_face_usc_06_01", "bill_face_usc_07_02", "bill_face_usc_08_01"], "idleTime" : 17.0000 }, // 4
+{"animeList" : [1], "texList" : ["bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_11", "bill_face_usc_06_02", "bill_face_usc_07_09", "bill_face_usc_08_01", "bill_face_usc_09_02", "bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_02", "bill_face_usc_06_02", "bill_face_usc_07_02", "bill_face_usc_08_01"], "idleTime" : 17.0000 }, // 5
+{"animeList" : [1], "texList" : ["bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_11", "bill_face_usc_05_06", "bill_face_usc_06_01", "bill_face_usc_07_04", "bill_face_usc_08_01", "bill_face_usc_09_01", "bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_11", "bill_face_usc_05_03", "bill_face_usc_06_01", "bill_face_usc_07_02", "bill_face_usc_08_01"], "idleTime" : 17.0000 }, // 6
+{"animeList" : [1], "texList" : ["bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_12", "bill_face_usc_05_07", "bill_face_usc_06_02", "bill_face_usc_07_05", "bill_face_usc_08_01", "bill_face_usc_09_02", "bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_12", "bill_face_usc_05_04", "bill_face_usc_06_02", "bill_face_usc_07_02", "bill_face_usc_08_01"], "idleTime" : 17.0000 }, // 7
+{"animeList" : [1], "texList" : ["bill_face_usc_02_03", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_08", "bill_face_usc_06_01", "bill_face_usc_07_06", "bill_face_usc_08_01", "bill_face_usc_09_01", "bill_face_usc_02_03", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_01", "bill_face_usc_06_01", "bill_face_usc_07_02", "bill_face_usc_08_01"], "idleTime" : 17.0000 }, // 8
+{"animeList" : [1], "texList" : ["bill_face_usc_02_04", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_09", "bill_face_usc_06_02", "bill_face_usc_07_07", "bill_face_usc_08_01", "bill_face_usc_09_02", "bill_face_usc_02_04", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_02", "bill_face_usc_06_02", "bill_face_usc_07_02", "bill_face_usc_08_01"], "idleTime" : 17.0000 }, // 9
+{"animeList" : [1], "texList" : ["bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_03", "bill_face_usc_05_10", "bill_face_usc_06_01", "bill_face_usc_07_08", "bill_face_usc_08_01", "bill_face_usc_09_01", "bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_03", "bill_face_usc_05_03", "bill_face_usc_06_01", "bill_face_usc_07_02", "bill_face_usc_08_01"], "idleTime" : 17.0000 }, // 10
+{"animeList" : [1], "texList" : ["bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_04", "bill_face_usc_05_11", "bill_face_usc_06_02", "bill_face_usc_07_09", "bill_face_usc_08_01", "bill_face_usc_09_02", "bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_04", "bill_face_usc_05_04", "bill_face_usc_06_02", "bill_face_usc_07_02", "bill_face_usc_08_01"], "idleTime" : 17.0000 }, // 11
+{"animeList" : [1], "texList" : ["bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_06", "bill_face_usc_06_01", "bill_face_usc_07_04", "bill_face_usc_08_01", "bill_face_usc_09_01", "bill_face_usc_02_01", "bill_face_usc_12_01", "bill_face_usc_04_01", "bill_face_usc_05_01", "bill_face_usc_06_01", "bill_face_usc_07_02", "bill_face_usc_08_01"], "idleTime" : 17.0000 }, // 12
+{"animeList" : [1], "texList" : ["bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_07", "bill_face_usc_06_02", "bill_face_usc_07_05", "bill_face_usc_08_03", "bill_face_usc_09_02", "bill_face_usc_02_02", "bill_face_usc_12_02", "bill_face_usc_04_02", "bill_face_usc_05_02", "bill_face_usc_06_02", "bill_face_usc_07_02", "bill_face_usc_08_03"], "idleTime" : 17.0000 } // 13
+			]
+		}
+	]
+}

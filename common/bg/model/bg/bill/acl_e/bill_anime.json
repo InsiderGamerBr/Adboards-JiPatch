@@ -1,0 +1,98 @@
+{
+	// 繝・・繧ｿ縺ｮ繝舌・繧ｸ繝ｧ繝ｳ(繝輔か繝ｼ繝槭ャ繝医′螟峨ｏ繧句庄閭ｽ諤ｧ縺後≠繧九・縺ｧ)
+	"version" : 0.02,
+	"animations" : [
+		[
+			// 開始アニメ
+			{
+				"animeTime" :  10.0000 ,
+				"scrollType" : 0,
+				"scaleType" : 0,
+				"fadeType" : 0,
+				"fadeColor": [1.0000, 1.0000, 1.0000, 1.0000],
+				"keys" : [
+					{ "scroll" : 0.0000, "scale" : [1.0000, 1.0000], "fade" : 0.0000, "key" : 0.0000 },
+					{ "scroll" : 0.0000, "scale" : [1.0000, 1.0000], "fade" : 0.0000, "key" : 1.0000 }
+				]
+			},
+			// 終了アニメ
+			{
+				"animeTime" :  0.0000 ,
+				"scrollType" : 0,
+				"scaleType" : 0,
+				"fadeType" : 0,
+				"fadeColor": [1.0000, 1.0000, 1.0000, 1.0000],
+				"keys" : [
+					{ "scroll" : 0.0, "scale" : [1.0, 1.0], "fade" : 0.0, "key" : 0.0 },
+					{ "scroll" : 0.0, "scale" : [1.0, 1.0], "fade" : 0.0, "key" : 1.0 }
+				]
+			}
+		]
+	],
+	"faceData" : [
+		{
+			"dir" : 0,
+			"data" : [
+			]
+		},
+		{
+			"dir" : 1,
+			"data" : [
+					{"animeList" : [0], "texList" : ["bill_face_acl_08_00"], "idleTime" : 0.0000 }, // 0
+					{"animeList" : [0], "texList" : ["bill_face_acl_06_00"], "idleTime" : 0.0000 }, // 1
+					{"animeList" : [0], "texList" : ["bill_face_acl_14_00"], "idleTime" : 0.0000 }, // 2
+					{"animeList" : [0], "texList" : ["bill_face_acl_05_00"], "idleTime" : 0.0000 }, // 3
+					{"animeList" : [0], "texList" : ["bill_face_acl_07_00"], "idleTime" : 0.0000 }, // 4
+					{"animeList" : [0], "texList" : ["bill_face_acl_09_00"], "idleTime" : 0.0000 }, // 5
+					{"animeList" : [0], "texList" : ["bill_face_acl_03_00"], "idleTime" : 0.0000 }, // 6
+					{"animeList" : [0], "texList" : ["bill_face_acl_10_00"], "idleTime" : 0.0000 }, // 7
+					{"animeList" : [0], "texList" : ["bill_face_acl_13_00"], "idleTime" : 0.0000 }, // 8
+					{"animeList" : [0], "texList" : ["bill_face_acl_01_00"], "idleTime" : 0.0000 }, // 9
+					{"animeList" : [0], "texList" : ["bill_face_acl_02_00"], "idleTime" : 0.0000 }, // 10
+					{"animeList" : [0], "texList" : ["bill_face_acl_08_00"], "idleTime" : 0.0000 }, // 11
+					{"animeList" : [0], "texList" : ["bill_face_acl_06_00"], "idleTime" : 0.0000 }, // 12
+					{"animeList" : [0], "texList" : ["bill_face_acl_14_00"], "idleTime" : 0.0000 }, // 13
+					{"animeList" : [0], "texList" : ["bill_face_acl_05_00"], "idleTime" : 0.0000 }, // 14
+					{"animeList" : [0], "texList" : ["bill_face_acl_07_00"], "idleTime" : 0.0000 }, // 15
+					{"animeList" : [0], "texList" : ["bill_face_acl_09_00"], "idleTime" : 0.0000 }, // 16
+					{"animeList" : [0], "texList" : ["bill_face_acl_03_00"], "idleTime" : 0.0000 }, // 17
+					{"animeList" : [0], "texList" : ["bill_face_acl_10_00"], "idleTime" : 0.0000 }, // 18
+					{"animeList" : [0], "texList" : ["bill_face_acl_13_00"], "idleTime" : 0.0000 } // 19
+			]
+		},
+		{
+			"dir" : 2,
+			"data" : [
+					{"animeList" : [0], "texList" : ["bill_face_acl_12_00"], "idleTime" : 0.0000 }, // 0
+					{"animeList" : [0], "texList" : ["bill_face_acl_04_00"], "idleTime" : 0.0000 }, // 1
+					{"animeList" : [0], "texList" : ["bill_face_acl_08_00"], "idleTime" : 0.0000 }, // 2
+					{"animeList" : [0], "texList" : ["bill_face_acl_06_00"], "idleTime" : 0.0000 }, // 3
+					{"animeList" : [0], "texList" : ["bill_face_acl_14_00"], "idleTime" : 0.0000 }, // 4
+					{"animeList" : [0], "texList" : ["bill_face_acl_05_00"], "idleTime" : 0.0000 }, // 5
+					{"animeList" : [0], "texList" : ["bill_face_acl_07_00"], "idleTime" : 0.0000 }, // 6
+					{"animeList" : [0], "texList" : ["bill_face_acl_09_00"], "idleTime" : 0.0000 }, // 7
+					{"animeList" : [0], "texList" : ["bill_face_acl_03_00"], "idleTime" : 0.0000 }, // 8
+					{"animeList" : [0], "texList" : ["bill_face_acl_10_00"], "idleTime" : 0.0000 }, // 9
+					{"animeList" : [0], "texList" : ["bill_face_acl_13_00"], "idleTime" : 0.0000 } // 10
+			]
+		},
+		{
+			"dir" : 3,
+			"data" : [
+					{"animeList" : [0], "texList" : ["bill_face_acl_08_00"], "idleTime" : 0.0000 }, // 0
+					{"animeList" : [0], "texList" : ["bill_face_acl_06_00"], "idleTime" : 0.0000 }, // 1
+					{"animeList" : [0], "texList" : ["bill_face_acl_14_00"], "idleTime" : 0.0000 }, // 2
+					{"animeList" : [0], "texList" : ["bill_face_acl_05_00"], "idleTime" : 0.0000 }, // 3
+					{"animeList" : [0], "texList" : ["bill_face_acl_07_00"], "idleTime" : 0.0000 }, // 4
+					{"animeList" : [0], "texList" : ["bill_face_acl_09_00"], "idleTime" : 0.0000 }, // 5
+					{"animeList" : [0], "texList" : ["bill_face_acl_03_00"], "idleTime" : 0.0000 }, // 6
+					{"animeList" : [0], "texList" : ["bill_face_acl_10_00"], "idleTime" : 0.0000 }, // 7
+					{"animeList" : [0], "texList" : ["bill_face_acl_13_00"], "idleTime" : 0.0000 }, // 8
+					{"animeList" : [0], "texList" : ["bill_face_acl_11_00"], "idleTime" : 0.0000 }, // 9
+					{"animeList" : [0], "texList" : ["bill_face_acl_04_00"], "idleTime" : 0.0000 } // 10
+			]
+		}
+	]
+}
+
+

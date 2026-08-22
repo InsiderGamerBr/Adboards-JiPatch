@@ -1,0 +1,54 @@
+<materialset>
+    <material name="systemAd_face_01" shader="90systemAd">
+        <vector name="Shininess" x="0.1" y="0.8" z="0" w="0" />
+        <vector name="SpecularColor" x="0.341" y="0.341" z="0.341" w="0" />
+        <sampler name="DiffuseMap" path="./texture/common/90systemAd_face_01.dds" srgb="1" minfilter="anisotropic" magfilter="linear" mipfilter="linear" uaddr="wrap" vaddr="wrap" waddr="wrap" maxaniso="8" />
+        <sampler name="NormalMap" path="model/bg/bill/90systemAd/common/texture/90systemAd_normal.dds" srgb="0" minfilter="anisotropic" magfilter="linear" mipfilter="linear" uaddr="wrap" vaddr="wrap" waddr="wrap" maxaniso="2" />
+        <state name="alpharef" value="0" />
+        <state name="blendmode" value="0" />
+        <state name="alphablend" value="0" />
+        <state name="alphatest" value="0" />
+        <state name="twosided" value="0" />
+        <state name="ztest" value="1" />
+        <state name="zwrite" value="1" />
+    </material>
+    <material name="systemAd_face_02" shader="90systemAd">
+        <vector name="Shininess" x="0.1" y="0.8" z="0" w="0" />
+        <vector name="SpecularColor" x="0.341" y="0.341" z="0.341" w="0" />
+        <sampler name="DiffuseMap" path="./texture/common/90systemAd_face_02.dds" srgb="1" minfilter="anisotropic" magfilter="linear" mipfilter="linear" uaddr="wrap" vaddr="wrap" waddr="wrap" maxaniso="8" />
+        <sampler name="NormalMap" path="model/bg/bill/90systemAd/common/texture/90systemAd_normal.dds" srgb="0" minfilter="anisotropic" magfilter="linear" mipfilter="linear" uaddr="wrap" vaddr="wrap" waddr="wrap" maxaniso="2" />
+        <state name="alpharef" value="0" />
+        <state name="blendmode" value="0" />
+        <state name="alphablend" value="0" />
+        <state name="alphatest" value="0" />
+        <state name="twosided" value="0" />
+        <state name="ztest" value="1" />
+        <state name="zwrite" value="1" />
+    </material>
+    <material name="systemAd_face_03" shader="90systemAd">
+        <vector name="Shininess" x="0.1" y="0.8" z="0" w="0" />
+        <vector name="SpecularColor" x="0.341" y="0.341" z="0.341" w="0" />
+        <sampler name="DiffuseMap" path="./texture/common/90systemAd_face_03.dds" srgb="1" minfilter="anisotropic" magfilter="linear" mipfilter="linear" uaddr="wrap" vaddr="wrap" waddr="wrap" maxaniso="8" />
+        <sampler name="NormalMap" path="model/bg/bill/90systemAd/common/texture/90systemAd_normal.dds" srgb="0" minfilter="anisotropic" magfilter="linear" mipfilter="linear" uaddr="wrap" vaddr="wrap" waddr="wrap" maxaniso="2" />
+        <state name="alpharef" value="0" />
+        <state name="blendmode" value="0" />
+        <state name="alphablend" value="0" />
+        <state name="alphatest" value="0" />
+        <state name="twosided" value="0" />
+        <state name="ztest" value="1" />
+        <state name="zwrite" value="1" />
+    </material>
+    <material name="systemAd_face_04" shader="90systemAd">
+        <vector name="Shininess" x="0.1" y="0.8" z="0" w="0" />
+        <vector name="SpecularColor" x="0.341" y="0.341" z="0.341" w="0" />
+        <sampler name="DiffuseMap" path="./texture/common/90systemAd_face_04.dds" srgb="1" minfilter="anisotropic" magfilter="linear" mipfilter="linear" uaddr="wrap" vaddr="wrap" waddr="wrap" maxaniso="8" />
+        <sampler name="NormalMap" path="model/bg/bill/90systemAd/common/texture/90systemAd_normal.dds" srgb="0" minfilter="anisotropic" magfilter="linear" mipfilter="linear" uaddr="wrap" vaddr="wrap" waddr="wrap" maxaniso="2" />
+        <state name="alpharef" value="0" />
+        <state name="blendmode" value="0" />
+        <state name="alphablend" value="0" />
+        <state name="alphatest" value="0" />
+        <state name="twosided" value="0" />
+        <state name="ztest" value="1" />
+        <state name="zwrite" value="1" />
+    </material>
+</materialset>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bill>
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/a_00.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/a_01.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/a_02.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/a_03.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/b_00.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/b_01.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/b_02.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/b_03.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/c_00.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/c_01.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/c_02.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/c_03.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/d_00.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/d_01.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/d_02.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/d_03.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/e_00.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/e_01.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/e_02.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/e_03.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/f_00.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/f_01.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/f_02.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/f_03.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/g_00.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/g_01.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/g_02.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/g_03.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/h_00.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/h_01.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/h_02.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/h_03.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/i_00.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/i_01.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/i_02.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/i_03.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/j_00.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/j_01.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/j_02.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/j_03.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/k_00.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/k_01.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/k_02.dds" />
+  <texture type="bill" path="model/bg/bill/Serie_A/texture/k_03.dds" />
+</bill>

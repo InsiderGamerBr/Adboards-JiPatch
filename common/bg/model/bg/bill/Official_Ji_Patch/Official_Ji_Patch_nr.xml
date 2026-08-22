@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bill>
+	<bill path="model/bg/bill/billBody/bill_type_43/bill_df.xml" />
+	<systemad path="model/bg/bill/Official_Ji_Patch/90systemAd/systemAd.xml" />
+	<texlist path="model/bg/bill/Official_Ji_Patch/bill_texlist.xml"/>
+	<animedata path="model/bg/bill/Official_Ji_Patch/bill_anime.json"/>
+</bill>

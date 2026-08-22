@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bill>
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_00_01.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_00_02.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_00_03.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_01_02.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_01_03.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_01_04.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_02_01.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_02_02.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_03_01.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_03_02.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_04_01.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_04_02.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_05_01.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_05_02.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_05_03.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_05_04.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_06_01.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_06_02.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_07_01.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_07_02.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_08_01.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_08_02.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_09_01.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_09_02.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_10_01.dds" />
+  <texture type="bill" path="model/bg/bill/ucl/texture/Ucl_10_02.dds" />
+</bill>
