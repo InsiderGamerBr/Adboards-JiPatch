@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<bill>
-	<bill path="model/bg/bill/billBody/bill_type_31/bill_nf.xml" />
-	<texlist path="./bill_texlist.xml"/>
-	<animedata path="./bill_anime.json"/>
-</bill>

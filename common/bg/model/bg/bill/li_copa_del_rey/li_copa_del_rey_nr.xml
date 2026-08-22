@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<bill>
-	<bill path="./billBody/bill_df.xml" />
-	<systemad path="./90systemAd/systemAd_df.xml" />
-	<texlist path="./bill_texlist.xml"/>
-	<animedata path="./bill_anime.json"/>
-	<movie path="./movie/bill.usm"/>
-</bill>
