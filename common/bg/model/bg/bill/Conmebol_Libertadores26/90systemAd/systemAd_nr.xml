@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bill>
+	<model material="./systemAd_nr.mtl" path="./model/systemAd_rhombus_right1.model" type="bill_90_system_right"/>
+	<model material="./systemAd_nr.mtl" path="./model/systemAd_rhombus_left1.model" type="bill_90_system_left"/>
+</bill>

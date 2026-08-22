@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bill>
+  <texture type="bill" path="model/bg/bill/acl_e/texture/bill_face_acl_08_00.dds" />
+  <texture type="bill" path="model/bg/bill/acl_e/texture/bill_face_acl_06_00.dds" />
+  <texture type="bill" path="model/bg/bill/acl_e/texture/bill_face_acl_09_00.dds" />
+  <texture type="bill" path="model/bg/bill/acl_e/texture/bill_face_acl_05_00.dds" />
+  <texture type="bill" path="model/bg/bill/acl_e/texture/bill_face_acl_07_00.dds" />
+  <texture type="bill" path="model/bg/bill/acl_e/texture/bill_face_acl_15_00.dds" />
+  <texture type="bill" path="model/bg/bill/acl_e/texture/bill_face_acl_03_00.dds" />
+  <texture type="bill" path="model/bg/bill/acl_e/texture/bill_face_acl_10_00.dds" />
+  <texture type="bill" path="model/bg/bill/acl_e/texture/bill_face_acl_13_00.dds" />
+  <texture type="bill" path="model/bg/bill/acl_e/texture/bill_face_acl_01_00.dds" />
+  <texture type="bill" path="model/bg/bill/acl_e/texture/bill_face_acl_02_00.dds" />
+  <texture type="bill" path="model/bg/bill/acl_e/texture/bill_face_acl_11_00.dds" />
+  <texture type="bill" path="model/bg/bill/acl_e/texture/bill_face_acl_04_00.dds" />
+  <texture type="bill" path="model/bg/bill/acl_e/texture/bill_face_acl_12_00.dds" />
+  <texture type="bill" path="model/bg/bill/acl_e/texture/bill_face_acl_14_00.dds" />
+</bill>

@@ -1,0 +1,91 @@
+{
+	"version" : 0.02,
+	"animations" : [
+		[
+			{
+				"animeTime" :  10.0000 ,
+				"scrollType" : 0,
+				"scaleType" : 0,
+				"fadeType" : 0,
+				"fadeColor": [1.0000, 1.0000, 1.0000, 1.0000],
+				"keys" : [
+					{ "scroll" : 0.0000, "scale" : [1.0000, 1.0000], "fade" : 0.0000, "key" : 0.0000 },
+					{ "scroll" : 0.0000, "scale" : [1.0000, 1.0000], "fade" : 0.0000, "key" : 1.0000 }
+				]
+			},
+			{
+				"animeTime" :  0.0000 ,
+				"scrollType" : 0,
+				"scaleType" : 0,
+				"fadeType" : 0,
+				"fadeColor": [1.0000, 1.0000, 1.0000, 1.0000],
+				"keys" : [
+					{ "scroll" : 0.0, "scale" : [1.0, 1.0], "fade" : 0.0, "key" : 0.0 },
+					{ "scroll" : 0.0, "scale" : [1.0, 1.0], "fade" : 0.0, "key" : 1.0 }
+				]
+			}
+		]
+	],
+	"faceData" : [
+		{
+			"dir" : 0,
+			"data" : [
+			]
+		},
+		{
+			"dir" : 1,
+			"data" : [
+					{"animeList" : [0], "texList" : ["continental_00"], "idleTime" : 0.0000 }, // 0
+					{"animeList" : [0], "texList" : ["continental_01"], "idleTime" : 0.0000 }, // 1
+					{"animeList" : [0], "texList" : ["targobank_00"], "idleTime" : 0.0000 }, // 2
+					{"animeList" : [0], "texList" : ["targobank_01"], "idleTime" : 0.0000 }, // 3
+					{"animeList" : [0], "texList" : ["bitburger_00"], "idleTime" : 0.0000 }, // 4
+					{"animeList" : [0], "texList" : ["bitburger_01"], "idleTime" : 0.0000 }, // 5
+					{"animeList" : [0], "texList" : ["post_00"], "idleTime" : 0.0000 }, // 6
+					{"animeList" : [0], "texList" : ["post_01"], "idleTime" : 0.0000 }, // 7
+					{"animeList" : [0], "texList" : ["dfb_00"], "idleTime" : 0.0000 }, // 8
+					{"animeList" : [0], "texList" : ["dfb_01"], "idleTime" : 0.0000 }, // 9
+					{"animeList" : [0], "texList" : ["engelbert_strauss_00"], "idleTime" : 0.0000 }, // 10
+					{"animeList" : [0], "texList" : ["engelbert_strauss_01"], "idleTime" : 0.0000 }, // 11
+					{"animeList" : [0], "texList" : ["vw_00"], "idleTime" : 0.0000 }, // 12
+					{"animeList" : [0], "texList" : ["vw_01"], "idleTime" : 0.0000 }, // 13
+					{"animeList" : [0], "texList" : ["continental_00"], "idleTime" : 0.0000 }, // 14
+					{"animeList" : [0], "texList" : ["continental_01"], "idleTime" : 0.0000 }, // 15
+					{"animeList" : [0], "texList" : ["targobank_00"], "idleTime" : 0.0000 }, // 16
+					{"animeList" : [0], "texList" : ["targobank_01"], "idleTime" : 0.0000 } // 17
+
+			]
+		},
+		{
+			"dir" : 2,
+			"data" : [
+					{"animeList" : [0], "texList" : ["targobank_00"], "idleTime" : 0.0000 }, // 0
+					{"animeList" : [0], "texList" : ["targobank_01"], "idleTime" : 0.0000 }, // 1
+					{"animeList" : [0], "texList" : ["bitburger_00"], "idleTime" : 0.0000 }, // 2
+					{"animeList" : [0], "texList" : ["bitburger_01"], "idleTime" : 0.0000 }, // 3
+					{"animeList" : [0], "texList" : ["post_00"], "idleTime" : 0.0000 }, // 4
+					{"animeList" : [0], "texList" : ["post_01"], "idleTime" : 0.0000 }, // 5
+					{"animeList" : [0], "texList" : ["engelbert_strauss_00"], "idleTime" : 0.0000 }, // 6
+					{"animeList" : [0], "texList" : ["engelbert_strauss_01"], "idleTime" : 0.0000 }, // 7
+					{"animeList" : [0], "texList" : ["vw_00"], "idleTime" : 0.0000 }, // 8
+					{"animeList" : [0], "texList" : ["vw_01"], "idleTime" : 0.0000 } // 9
+			]
+		},
+		{
+			"dir" : 3,
+			"data" : [
+					{"animeList" : [0], "texList" : ["bitburger_00"], "idleTime" : 0.0000 }, // 0
+					{"animeList" : [0], "texList" : ["bitburger_01"], "idleTime" : 0.0000 }, // 1
+					{"animeList" : [0], "texList" : ["post_00"], "idleTime" : 0.0000 }, // 2
+					{"animeList" : [0], "texList" : ["post_01"], "idleTime" : 0.0000 }, // 3
+					{"animeList" : [0], "texList" : ["engelbert_strauss_00"], "idleTime" : 0.0000 }, // 4
+					{"animeList" : [0], "texList" : ["engelbert_strauss_01"], "idleTime" : 0.0000 }, // 5
+					{"animeList" : [0], "texList" : ["vw_00"], "idleTime" : 0.0000 }, // 6
+					{"animeList" : [0], "texList" : ["vw_01"], "idleTime" : 0.0000 }, // 7
+					{"animeList" : [0], "texList" : ["continental_00"], "idleTime" : 0.0000 }, // 8
+					{"animeList" : [0], "texList" : ["continental_01"], "idleTime" : 0.0000 } // 9
+
+			]
+		}
+	]
+}

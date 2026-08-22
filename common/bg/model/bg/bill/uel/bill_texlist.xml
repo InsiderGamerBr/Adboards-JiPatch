@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bill>
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_10_00.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_01_02.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_01_03.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_01_04.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_02_01.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_02_02.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_02_03.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_02_04.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_03_01.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_03_02.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_03_03.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_03_04.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_04_01.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_04_02.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_04_03.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_04_04.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_05_01.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_05_02.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_05_03.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_05_04.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_06_01.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_06_02.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_06_03.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_06_04.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_07_01.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_07_02.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_07_03.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_07_04.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_08_01.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_08_02.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_08_03.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_08_04.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_09_01.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_09_02.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_09_03.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_09_04.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_11_01.dds" />
+  <texture type="bill" path="model/bg/bill/uel/texture/UEFA_Europa_League_11_02.dds" />
+</bill>

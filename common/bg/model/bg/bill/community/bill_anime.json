@@ -1,0 +1,100 @@
+{
+	"version" : 0.02,
+	"animations" : [
+		[
+			{
+				"animeTime" : 0.0,
+				"scrollType" : 0,
+				"scaleType": 0,
+				"fadeType" : 0,
+				"fadeColor": [1.0, 1.0, 1.0, 1.0],
+				"keys" : [
+					{ "scroll" : 0.0, "scale" : [1.0, 1.0], "fade" : 0.0, "key" : 0.0 },
+					{ "scroll" : 0.0, "scale" : [1.0, 1.0], "fade" : 0.0, "key" : 1.0 }
+				]
+			},
+			{
+				"animeTime" : 0.5,
+				"scrollType" : 0,
+				"scaleType": 0,
+				"fadeType" : 0,
+				"fadeColor": [1.0, 1.0, 1.0, 1.0],
+				"keys" : [
+					{ "scroll" : 0.0, "scale" : [1.0, 1.0], "fade" : 0.0, "key" : 0.0 },
+					{ "scroll" : 0.0, "scale" : [1.0, 1.0], "fade" : 0.5, "key" : 0.5 },
+					{ "scroll" : 0.0, "scale" : [1.0, 1.0], "fade" : 1.0, "key" : 1.0 }
+				]
+			}
+		]
+	],
+	"faceData" : [
+		{
+			"dir" : 0,
+			"data" : [
+			]
+		},
+		{
+			"dir" : 1,
+			"data" : [
+					{"animeList" : [0], "texList" : ["facomm1_1","facomm2_1","bplay1_1", "bplay2_1", "bplay3_1","bplay4_1","bplay5_1","f1", "f1", "f1", "f1","blue", "wemlogo1", "faskil1_1", "faskil2_1", "faskil3_1", "faskil4_1","vauxw1", "vauxw1","vauxr1","vauxr1"], "idleTime" : 12.0000 }, //0
+					{"animeList" : [0], "texList" : ["facomm1_2","facomm2_2","bplay1_2", "bplay2_2", "bplay3_2","bplay4_2","bplay5_2", "fastan1_1", "fastan2_1", "fastan3_1", "fastan4_1", "wemb1", "wemlogo2", "faskil1_2", "faskil2_2", "faskil3_2", "faskil4_2","vauxw2", "vauxw2","vauxr2","vauxr2"], "idleTime" : 12.0000 }, //1
+					{"animeList" : [0], "texList" : ["facomm1_3","facomm2_3","bplay1_3", "bplay2_3", "bplay3_3","bplay4_3","bplay5_3", "fastan1_2", "fastan2_2", "fastan3_2", "fastan4_2", "wemb2", "wemlogo1", "faskil1_3", "faskil2_3", "faskil3_3", "faskil4_3","vauxw1", "eng1_1","vauxr1","eng2_1"], "idleTime" : 12.0000 }, //2
+					{"animeList" : [0], "texList" : ["facomm1_4","facomm2_4","bplay1_4", "bplay2_4", "bplay3_4","bplay4_4","bplay5_4", "fastan1_3", "fastan2_3", "fastan3_3", "fastan4_3", "wemb3", "wemlogo2", "faskil1_4", "faskil2_4", "faskil3_4", "faskil4_4","vauxw2", "eng1_2","vauxr2","eng2_2"], "idleTime" : 12.0000 }, //3
+					{"animeList" : [0], "texList" : ["facomm1_1","facomm2_1","bplay1_5", "bplay2_5", "bplay3_5","bplay4_5","bplay5_5", "fastan1_4", "fastan2_4", "fastan3_4", "fastan4_4", "wemb4", "wemlogo1", "faskil1_1", "faskil2_1", "faskil3_1", "faskil4_1","vauxw1", "eng1_3","vauxr1","eng2_3"], "idleTime" : 12.0000 }, //4
+					{"animeList" : [0], "texList" : ["facomm1_2","facomm2_2","bplay1_6", "bplay2_6", "bplay3_6","bplay4_6","bplay5_6", "f2", "f2", "f2", "f2","blue", "wemlogo2", "faskil1_2", "faskil2_2", "faskil3_2", "faskil4_2","vauxw2", "eng1_4","vauxr2","eng2_4"], "idleTime" : 12.0000 }, //5
+					{"animeList" : [0], "texList" : ["facomm1_3","facomm2_3","bplay1_1", "bplay2_1", "bplay3_1","bplay4_1","bplay5_1","f1", "f1", "f1", "f1","blue", "wemlogo1", "faskil1_3", "faskil2_3", "faskil3_3", "faskil4_3","vauxw1", "eng1_5","vauxr1","eng2_5"], "idleTime" : 12.0000 }, //6
+					{"animeList" : [0], "texList" : ["facomm1_4","facomm2_4","bplay1_2", "bplay2_2", "bplay3_2","bplay4_2","bplay5_2", "fastan1_1", "fastan2_1", "fastan3_1", "fastan4_1", "wemb1", "wemlogo2", "faskil1_4", "faskil2_4", "faskil3_4", "faskil4_4","vauxw2", "eng1_6","vauxr2","eng2_6"], "idleTime" : 12.0000 }, //7
+					{"animeList" : [0], "texList" : ["facomm1_1","facomm2_1","bplay1_3", "bplay2_3", "bplay3_3","bplay4_3","bplay5_3", "fastan1_2", "fastan2_2", "fastan3_2", "fastan4_2", "wemb2", "wemlogo1", "faskil1_1", "faskil2_1", "faskil3_1", "faskil4_1","vauxw1", "vauxw1","vauxr1","vauxr1"], "idleTime" : 12.0000 }, //8
+					{"animeList" : [0], "texList" : ["facomm1_2","facomm2_2","bplay1_4", "bplay2_4", "bplay3_4","bplay4_4","bplay5_4", "fastan1_3", "fastan2_3", "fastan3_3", "fastan4_3", "wemb3", "wemlogo2", "faskil1_2", "faskil2_2", "faskil3_2", "faskil4_2","vauxw2", "vauxw2","vauxr2","vauxr2"], "idleTime" : 12.0000 }, //9
+					{"animeList" : [0], "texList" : ["facomm1_3","facomm2_3","bplay1_5", "bplay2_5", "bplay3_5","bplay4_5","bplay5_5", "fastan1_4", "fastan2_4", "fastan3_4", "fastan4_4", "wemb4", "wemlogo1", "faskil1_3", "faskil2_3", "faskil3_3", "faskil4_3","vauxw1", "eng1_1","vauxr1","eng2_1"], "idleTime" : 12.0000 }, //10
+					{"animeList" : [0], "texList" : ["facomm1_4","facomm2_4","bplay1_6", "bplay2_6", "bplay3_6","bplay4_6","bplay5_6", "f2", "f2", "f2", "f2","blue", "wemlogo2", "faskil1_4", "faskil2_4", "faskil3_4", "faskil4_4","vauxw2", "eng1_2","vauxr2","eng2_2"], "idleTime" : 12.0000 }, //11
+					{"animeList" : [0], "texList" : ["facomm1_1","facomm2_1","bplay1_1","bplay2_1", "bplay3_1","bplay4_1","bplay5_1","f1", "f1", "f1", "f1","blue", "wemlogo1", "faskil1_1", "faskil2_1", "faskil3_1", "faskil4_1","vauxw1", "eng1_3","vauxr1","eng2_3"], "idleTime" : 12.0000 }, //12
+					{"animeList" : [0], "texList" : ["facomm1_2","facomm2_2","bplay1_2", "bplay2_2", "bplay3_2","bplay4_2","bplay5_2", "fastan1_1", "fastan2_1", "fastan3_1", "fastan4_1", "wemb1", "wemlogo2", "faskil1_2", "faskil2_2", "faskil3_2", "faskil4_2","vauxw2", "eng1_4","vauxr2","eng2_4"], "idleTime" : 12.0000 }, //13
+					{"animeList" : [0], "texList" : ["facomm1_3","facomm2_3","bplay1_3", "bplay2_3", "bplay3_3","bplay4_3","bplay5_3", "fastan1_2", "fastan2_2", "fastan3_2", "fastan4_2", "wemb2", "wemlogo1", "faskil1_3", "faskil2_3", "faskil3_3", "faskil4_3","vauxw1", "eng1_5","vauxr1","eng2_5"], "idleTime" : 12.0000 }, //14
+					{"animeList" : [0], "texList" : ["facomm1_4","facomm2_4","bplay1_4", "bplay2_4", "bplay3_4","bplay4_4","bplay5_4", "fastan1_3", "fastan2_3", "fastan3_3", "fastan4_3", "wemb3", "wemlogo2", "faskil1_4", "faskil2_4", "faskil3_4", "faskil4_4","vauxw2", "eng1_6","vauxr2","eng2_6"], "idleTime" : 12.0000 }, //15
+					{"animeList" : [0], "texList" : ["facomm1_1","facomm2_1","bplay1_5", "bplay2_5", "bplay3_5","bplay4_5","bplay5_5", "fastan1_4", "fastan2_4", "fastan3_4", "fastan4_4", "wemb4", "wemlogo1", "faskil1_1", "faskil2_1", "faskil3_1", "faskil4_1","vauxw1", "vauxw1","vauxr1","vauxr1"], "idleTime" : 12.0000 }, //16
+					{"animeList" : [0], "texList" : ["facomm1_2","facomm2_2","bplay1_6", "bplay2_6", "bplay3_6","bplay4_6","bplay5_6", "f2", "f2", "f2", "f2","blue", "wemlogo2", "faskil1_2", "faskil2_2", "faskil3_2", "faskil4_2","vauxw2", "vauxw2","vauxr2","vauxr2"], "idleTime" : 12.0000 }, //17
+					{"animeList" : [0], "texList" : ["facomm1_3","facomm2_3","bplay1_1", "bplay2_1", "bplay3_1","bplay4_1","bplay5_1","f1", "f1", "f1", "f1","blue", "wemlogo1", "faskil1_3", "faskil2_3", "faskil3_3", "faskil4_3","vauxw1", "eng1_1","vauxr1","eng2_1"], "idleTime" : 12.0000 }, //18
+					{"animeList" : [0], "texList" : ["facomm1_4","facomm2_4","bplay1_2", "bplay2_2", "bplay3_2","bplay4_2","bplay5_2", "fastan1_1", "fastan2_1", "fastan3_1", "fastan4_1", "wemb1", "wemlogo2", "faskil1_4", "faskil2_4", "faskil3_4", "faskil4_4","vauxw2", "eng1_2","vauxr2","eng2_2"], "idleTime" : 12.0000 }, //19
+					{"animeList" : [0], "texList" : ["facomm1_1","facomm2_1","bplay1_3", "bplay2_3", "bplay3_3","bplay4_3","bplay5_3", "fastan1_2", "fastan2_2", "fastan3_2", "fastan4_2", "wemb2", "wemlogo1", "faskil1_1", "faskil2_1", "faskil3_1", "faskil4_1","vauxw1", "eng1_3","vauxr1","eng2_3"], "idleTime" : 12.0000 }, //20
+					{"animeList" : [0], "texList" : ["facomm1_2","facomm2_2","bplay1_4", "bplay2_4", "bplay3_4","bplay4_4","bplay5_4", "fastan1_3", "fastan2_3", "fastan3_3", "fastan4_3", "wemb3", "wemlogo2", "faskil1_2", "faskil2_2", "faskil3_2", "faskil4_2","vauxw2", "eng1_4","vauxr2","eng2_4"], "idleTime" : 12.0000 }, //21
+					{"animeList" : [0], "texList" : ["facomm1_3","facomm2_3","bplay1_5", "bplay2_5", "bplay3_5","bplay4_5","bplay5_5", "fastan1_4", "fastan2_4", "fastan3_4", "fastan4_4", "wemb4", "wemlogo1", "faskil1_3", "faskil2_3", "faskil3_3", "faskil4_3","vauxw1", "eng1_5","vauxr1","eng2_5"], "idleTime" : 12.0000 }, //22
+					{"animeList" : [0], "texList" : ["facomm1_4","facomm2_4","bplay1_6", "bplay2_6", "bplay3_6","bplay4_6","bplay5_6", "f2", "f2", "f2", "f2","blue", "wemlogo2", "faskil1_4", "faskil2_4", "faskil3_4", "faskil4_4","vauxw2", "eng1_6","vauxr2","eng2_6"], "idleTime" : 12.0000 } //23
+			]
+		},
+		{
+			"dir" : 2,
+			"data" : [
+					{"animeList" : [0], "texList" : ["facomm1_1","facomm2_1","bplay1_1", "bplay2_1", "bplay3_1","bplay4_1","bplay5_1","f1", "f1", "f1", "f1","blue", "wemlogo1", "faskil1_1", "faskil2_1", "faskil3_1", "faskil4_1","vauxw1", "vauxw1","vauxr1","vauxr1"], "idleTime" : 12.0000 }, //0
+					{"animeList" : [0], "texList" : ["facomm1_2","facomm2_2","bplay1_2", "bplay2_2", "bplay3_2","bplay4_2","bplay5_2", "fastan1_1", "fastan2_1", "fastan3_1", "fastan4_1", "wemb1", "wemlogo2", "faskil1_2", "faskil2_2", "faskil3_2", "faskil4_2","vauxw2", "vauxw2","vauxr2","vauxr2"], "idleTime" : 12.0000 }, //1
+					{"animeList" : [0], "texList" : ["facomm1_3","facomm2_3","bplay1_3", "bplay2_3", "bplay3_3","bplay4_3","bplay5_3", "fastan1_2", "fastan2_2", "fastan3_2", "fastan4_2", "wemb2", "wemlogo1", "faskil1_3", "faskil2_3", "faskil3_3", "faskil4_3","vauxw1", "vauxw1","vauxr1","vauxr1"], "idleTime" : 12.0000 }, //2
+					{"animeList" : [0], "texList" : ["facomm1_4","facomm2_4","bplay1_4", "bplay2_4", "bplay3_4","bplay4_4","bplay5_4", "fastan1_3", "fastan2_3", "fastan3_3", "fastan4_3", "wemb3", "wemlogo2", "faskil1_4", "faskil2_4", "faskil3_4", "faskil4_4","vauxw2", "vauxw2","vauxr2","vauxr2"], "idleTime" : 12.0000 }, //3
+					{"animeList" : [0], "texList" : ["facomm1_1","facomm2_1","bplay1_5", "bplay2_5", "bplay3_5","bplay4_5","bplay5_5", "fastan1_4", "fastan2_4", "fastan3_4", "fastan4_4", "wemb4", "wemlogo1", "faskil1_1", "faskil2_1", "faskil3_1", "faskil4_1","vauxw1", "eng1_1","vauxr1","eng2_1"], "idleTime" : 12.0000 }, //4
+					{"animeList" : [0], "texList" : ["facomm1_2","facomm2_2","bplay1_6", "bplay2_6", "bplay3_6","bplay4_6","bplay5_6", "f2", "f2", "f2", "f2","blue", "wemlogo2", "faskil1_2", "faskil2_2", "faskil3_2", "faskil4_2","vauxw2", "eng1_2","vauxr2","eng2_2"], "idleTime" : 12.0000 }, //5
+					{"animeList" : [0], "texList" : ["facomm1_3","facomm2_3","bplay1_1", "bplay2_1", "bplay3_1","bplay4_1","bplay5_1","f1", "f1", "f1", "f1","blue", "wemlogo1", "faskil1_3", "faskil2_3", "faskil3_3", "faskil4_3","vauxw1", "eng1_3","vauxr1","eng2_3"], "idleTime" : 12.0000 }, //6
+					{"animeList" : [0], "texList" : ["facomm1_4","facomm2_4","bplay1_2", "bplay2_2", "bplay3_2","bplay4_2","bplay5_2", "fastan1_1", "fastan2_1", "fastan3_1", "fastan4_1", "wemb1", "wemlogo2", "faskil1_4", "faskil2_4", "faskil3_4", "faskil4_4","vauxw2", "eng1_4","vauxr2","eng2_4"], "idleTime" : 12.0000 }, //7
+					{"animeList" : [0], "texList" : ["facomm1_1","facomm2_1","bplay1_3", "bplay2_3", "bplay3_3","bplay4_3","bplay5_3", "fastan1_2", "fastan2_2", "fastan3_2", "fastan4_2", "wemb2", "wemlogo1", "faskil1_1", "faskil2_1", "faskil3_1", "faskil4_1","vauxw1", "eng1_5","vauxr1","eng2_5"], "idleTime" : 12.0000 }, //8
+					{"animeList" : [0], "texList" : ["facomm1_2","facomm2_2","bplay1_4", "bplay2_4", "bplay3_4","bplay4_4","bplay5_4", "fastan1_3", "fastan2_3", "fastan3_3", "fastan4_3", "wemb3", "wemlogo2", "faskil1_2", "faskil2_2", "faskil3_2", "faskil4_2","vauxw2", "eng1_6","vauxr2","eng2_6"], "idleTime" : 12.0000 }, //9
+					{"animeList" : [0], "texList" : ["facomm1_3","facomm2_3","bplay1_5", "bplay2_5", "bplay3_5","bplay4_5","bplay5_5", "fastan1_4", "fastan2_4", "fastan3_4", "fastan4_4", "wemb4", "wemlogo1", "faskil1_3", "faskil2_3", "faskil3_3", "faskil4_3","vauxw1", "vauxw1","vauxr1","vauxr1"], "idleTime" : 12.0000 }, //10
+					{"animeList" : [0], "texList" : ["facomm1_4","facomm2_4","bplay1_6", "bplay2_6", "bplay3_6","bplay4_6","bplay5_6", "f2", "f2", "f2", "f2","blue", "wemlogo2", "faskil1_4", "faskil2_4", "faskil3_4", "faskil4_4","vauxw2", "vauxw2","vauxr2","vauxr2"], "idleTime" : 12.0000 } //11
+			]
+		},
+		{
+			"dir" : 3,
+			"data" : [
+					{"animeList" : [0], "texList" : ["facomm1_1","facomm2_1","bplay1_1", "bplay2_1", "bplay3_1","bplay4_1","bplay5_1","f1", "f1", "f1", "f1","blue", "wemlogo1", "faskil1_1", "faskil2_1", "faskil3_1", "faskil4_1","vauxw1", "vauxw1","vauxr1","vauxr1"], "idleTime" : 12.0000 }, //0
+					{"animeList" : [0], "texList" : ["facomm1_2","facomm2_2","bplay1_2", "bplay2_2", "bplay3_2","bplay4_2","bplay5_2", "fastan1_1", "fastan2_1", "fastan3_1", "fastan4_1", "wemb1", "wemlogo2", "faskil1_2", "faskil2_2", "faskil3_2", "faskil4_2","vauxw2", "vauxw2","vauxr2","vauxr2"], "idleTime" : 12.0000 }, //1
+					{"animeList" : [0], "texList" : ["facomm1_3","facomm2_3","bplay1_3", "bplay2_3", "bplay3_3","bplay4_3","bplay5_3", "fastan1_2", "fastan2_2", "fastan3_2", "fastan4_2", "wemb2", "wemlogo1", "faskil1_3", "faskil2_3", "faskil3_3", "faskil4_3","vauxw1", "eng1_1","vauxr1","eng2_1"], "idleTime" : 12.0000 }, //2
+					{"animeList" : [0], "texList" : ["facomm1_4","facomm2_4","bplay1_4", "bplay2_4", "bplay3_4","bplay4_4","bplay5_4", "fastan1_3", "fastan2_3", "fastan3_3", "fastan4_3", "wemb3", "wemlogo2", "faskil1_4", "faskil2_4", "faskil3_4", "faskil4_4","vauxw2", "eng1_2","vauxr2","eng2_2"], "idleTime" : 12.0000 }, //3
+					{"animeList" : [0], "texList" : ["facomm1_1","facomm2_1","bplay1_5", "bplay2_5", "bplay3_5","bplay4_5","bplay5_5", "fastan1_4", "fastan2_4", "fastan3_4", "fastan4_4", "wemb4", "wemlogo1", "faskil1_1", "faskil2_1", "faskil3_1", "faskil4_1","vauxw1", "eng1_3","vauxr1","eng2_3"], "idleTime" : 12.0000 }, //4
+					{"animeList" : [0], "texList" : ["facomm1_2","facomm2_2","bplay1_6", "bplay2_6", "bplay3_6","bplay4_6","bplay5_6", "f2", "f2", "f2", "f2","blue", "wemlogo2", "faskil1_2", "faskil2_2", "faskil3_2", "faskil4_2","vauxw2", "eng1_4","vauxr2","eng2_4"], "idleTime" : 12.0000 }, //5
+					{"animeList" : [0], "texList" : ["facomm1_3","facomm2_3","bplay1_1", "bplay2_1", "bplay3_1","bplay4_1","bplay5_1","f1", "f1", "f1", "f1","blue", "wemlogo1", "faskil1_3", "faskil2_3", "faskil3_3", "faskil4_3","vauxw1", "eng1_5","vauxr1","eng2_5"], "idleTime" : 12.0000 }, //6
+					{"animeList" : [0], "texList" : ["facomm1_4","facomm2_4","bplay1_2", "bplay2_2", "bplay3_2","bplay4_2","bplay5_2", "fastan1_1", "fastan2_1", "fastan3_1", "fastan4_1", "wemb1", "wemlogo2", "faskil1_4", "faskil2_4", "faskil3_4", "faskil4_4","vauxw2", "eng1_6","vauxr2","eng2_6"], "idleTime" : 12.0000 }, //7
+					{"animeList" : [0], "texList" : ["facomm1_1","facomm2_1","bplay1_3", "bplay2_3", "bplay3_3","bplay4_3","bplay5_3", "fastan1_2", "fastan2_2", "fastan3_2", "fastan4_2", "wemb2", "wemlogo1", "faskil1_1", "faskil2_1", "faskil3_1", "faskil4_1","vauxw1", "vauxw1","vauxr1","vauxr1"], "idleTime" : 12.0000 }, //8
+					{"animeList" : [0], "texList" : ["facomm1_2","facomm2_2","bplay1_4", "bplay2_4", "bplay3_4","bplay4_4","bplay5_4", "fastan1_3", "fastan2_3", "fastan3_3", "fastan4_3", "wemb3", "wemlogo2", "faskil1_2", "faskil2_2", "faskil3_2", "faskil4_2","vauxw2", "vauxw2","vauxr2","vauxr2"], "idleTime" : 12.0000 }, //9
+					{"animeList" : [0], "texList" : ["facomm1_3","facomm2_3","bplay1_5", "bplay2_5", "bplay3_5","bplay4_5","bplay5_5", "fastan1_4", "fastan2_4", "fastan3_4", "fastan4_4", "wemb4", "wemlogo1", "faskil1_3", "faskil2_3", "faskil3_3", "faskil4_3","vauxw1", "vauxw1","vauxr1","vauxr1"], "idleTime" : 12.0000 }, //10
+					{"animeList" : [0], "texList" : ["facomm1_4","facomm2_4","bplay1_6", "bplay2_6", "bplay3_6","bplay4_6","bplay5_6","f2", "f2", "f2", "f2","blue", "wemlogo2", "faskil1_4", "faskil2_4", "faskil3_4", "faskil4_4","vauxw2", "vauxw2","vauxr2","vauxr2"], "idleTime" : 12.0000 } //11
+			]
+		}
+	]
+}

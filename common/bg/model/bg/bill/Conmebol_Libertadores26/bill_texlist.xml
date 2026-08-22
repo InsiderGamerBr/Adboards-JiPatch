@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bill>
+
+  <!-- Adboard - Conmebol Libertadores -->
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_00_01.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_00_02.dds" />
+
+  <!-- Amstel -->
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Amstel_01.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Amstel_02.dds" />
+
+  <!-- Basta Racismo -->
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_BastaDeRacismo_00.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_BastaDeRacismo_01.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_BastaDeRacismo_02.dds" />
+
+  <!-- Coca-Cola -->
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Coca_Cola_01.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Coca_Cola_02.dds" />
+
+  <!-- Coca Zero -->
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Coca_Zero_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Coca_Zero_01_02.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Coca_Zero_01_03.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Coca_Zero_01_04.dds" />
+
+  <!-- CONMEBOL -->
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Conmebol_00.dds" />
+
+  <!-- Crypto -->
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Crypto_00.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Crypto_01.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Crypto_02.dds" />
+
+  <!-- DHL -->
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_DHL_01.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_DHL_02.dds" />
+
+  <!-- EA FC -->
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Fc26_00.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Fc26_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Fc26_01_02.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Fc26_01_03.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Fc26_01_04.dds" />
+
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Fc26_02_01.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Fc26_02_02.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Fc26_02_03.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Fc26_02_04.dds" />
+
+  <!-- Hyundai -->
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Hyundai_00.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Hyundai_01.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Hyundai_02.dds" />
+
+  <!-- Mapfre -->
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Mapfre_00.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Mapfre_01.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Mapfre_02.dds" />
+
+  <!-- Mastercard -->
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Mastercard_00.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Mastercard_01.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Mastercard_02.dds" />
+
+  <!-- Mercado Livre -->
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_MercadoLibre_00.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_MercadoLibre_01.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_MercadoLibre_02.dds" />
+
+  <!-- SportingBet -->
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_SportingBet_01.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_SportingBet_02.dds" />
+  
+  <!-- Powerade -->
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Powerade_01.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Powerade_02.dds" />
+
+  <!-- Priceless -->
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Priceless_00.dds" />
+
+  <!-- TCL -->
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Tcl_00.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Tcl_01.dds" />
+  <texture type="bill" path="model/bg/bill/Conmebol_Libertadores26/texture/Conmebol_Lib_Tcl_02.dds" />
+
+</bill>
