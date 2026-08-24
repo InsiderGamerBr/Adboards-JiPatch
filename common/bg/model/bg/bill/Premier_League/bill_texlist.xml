@@ -72,4 +72,24 @@
   <texture type="bill" path="model/bg/bill/Premier_League/texture/r_01.dds" />
   <texture type="bill" path="model/bg/bill/Premier_League/texture/r_02.dds" />
   <texture type="bill" path="model/bg/bill/Premier_League/texture/r_03.dds" />
+  <texture type="bill" path="model/bg/bill/Premier_League/texture/s_00.dds" />
+  <texture type="bill" path="model/bg/bill/Premier_League/texture/s_01.dds" />
+  <texture type="bill" path="model/bg/bill/Premier_League/texture/s_02.dds" />
+  <texture type="bill" path="model/bg/bill/Premier_League/texture/s_03.dds" />
+  <texture type="bill" path="model/bg/bill/Premier_League/texture/t_00.dds" />
+  <texture type="bill" path="model/bg/bill/Premier_League/texture/t_01.dds" />
+  <texture type="bill" path="model/bg/bill/Premier_League/texture/t_02.dds" />
+  <texture type="bill" path="model/bg/bill/Premier_League/texture/t_03.dds" />
+  <texture type="bill" path="model/bg/bill/Premier_League/texture/u_00.dds" />
+  <texture type="bill" path="model/bg/bill/Premier_League/texture/u_01.dds" />
+  <texture type="bill" path="model/bg/bill/Premier_League/texture/u_02.dds" />
+  <texture type="bill" path="model/bg/bill/Premier_League/texture/u_03.dds" />
+  <texture type="bill" path="model/bg/bill/Premier_League/texture/v_00.dds" />
+  <texture type="bill" path="model/bg/bill/Premier_League/texture/v_01.dds" />
+  <texture type="bill" path="model/bg/bill/Premier_League/texture/v_02.dds" />
+  <texture type="bill" path="model/bg/bill/Premier_League/texture/v_03.dds" />
+  <texture type="bill" path="model/bg/bill/Premier_League/texture/w_00.dds" />
+  <texture type="bill" path="model/bg/bill/Premier_League/texture/w_01.dds" />
+  <texture type="bill" path="model/bg/bill/Premier_League/texture/w_02.dds" />
+  <texture type="bill" path="model/bg/bill/Premier_League/texture/w_03.dds" />
 </bill>
