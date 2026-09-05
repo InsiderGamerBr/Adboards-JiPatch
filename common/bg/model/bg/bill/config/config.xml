@@ -8,7 +8,7 @@
   <!-- PRIMEIRAS DIVISÕES EUROPEIAS -->
   <condition stid="-1" compeid="9" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Premier_League" /><!-- Premier League (Primeira Divisão do Campeonato Inglês) -->
   <condition stid="-1" compeid="10" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Serie_A" /><!-- Serie A TIM (Primeira Divisão do Campeonato Italiano) -->
-  <condition stid="-1" compeid="11" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="La_Liga" /><!-- La Liga (Primeira Divisão do Campeonato Espanhol) -->
+  <condition stid="-1" compeid="11" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="La_Liga_Ea_Sports" /><!-- La Liga (Primeira Divisão do Campeonato Espanhol) -->
   <condition stid="-1" compeid="12" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- Ligue 1 (Primeira Divisão do Campeonato Francês) -->
   <condition stid="-1" compeid="13" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Eredivisie" /><!-- Eredivisie (Primeira Divisão do Campeonato Holandês) -->
   <condition stid="-1" compeid="14" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Liga_Portugal" /><!-- Liga Portugal (Primeira Divisão do Campeonato Português) -->
@@ -149,26 +149,26 @@
   <condition stid="-1" compeid="-1" hometeamid="2494" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Categoria_Primera_A" /> <!-- La Equidad FC -->
 
   <!-- ADBOARDS POR TIME - LIGA ESPANHOLA -->
-  <condition stid="-1" compeid="-1" hometeamid="109" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="357" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="258" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="172" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="108" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="195" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="4308" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="362" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="1765" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="2187" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="364" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="1765" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="263" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="370" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="194" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="196" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="4298" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="265" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="110" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="267" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="109" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga_Ea_Sports" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="357" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga_Ea_Sports" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="258" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga_Ea_Sports" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="172" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga_Ea_Sports" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="108" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga_Ea_Sports" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="195" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga_Ea_Sports" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="4308" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga_Ea_Sports" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="362" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga_Ea_Sports" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="1765" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga_Ea_Sports" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="2187" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga_Ea_Sports" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="364" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga_Ea_Sports" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="1765" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga_Ea_Sports" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="263" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga_Ea_Sports" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="370" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga_Ea_Sports" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="194" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga_Ea_Sports" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="196" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga_Ea_Sports" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="4298" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga_Ea_Sports" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="265" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga_Ea_Sports" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="110" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga_Ea_Sports" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="267" teamexclusion="0" language="-1" region="-1" title="-1" pattern="La_Liga_Ea_Sports" /><!-- -->
 
   <!-- ADBOARDS POR TIME - LALIGA SMARTBANK -->
   <condition stid="-1" compeid="-1" hometeamid="266" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Official_Ji_Patch" /><!-- -->
