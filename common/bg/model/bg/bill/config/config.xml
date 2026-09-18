@@ -32,7 +32,7 @@
 
   <!-- COMPETIÇÕES INTERNACIONAIS AMERICANAS -->
   <condition stid="-1" compeid="5" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Conmebol_Libertadores26" /><!-- Copa Libertadores - Eliminatórias (Principal competição de  clubes da América do Sul) -->
-  <condition stid="-1" compeid="34" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="copa_america" /><!-- Copa América (Campeonato Sul-Americano de Seleções) -->
+  <condition stid="-1" compeid="34" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="copa" /><!-- Copa América (Campeonato Sul-Americano de Seleções) -->
 
   <!-- LIGAS NACIONAIS AMERICANAS -->
   <condition stid="-1" compeid="21" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- Brasileirão Betano (Primeira Divisão do Campeonato Brasileiro) -->
