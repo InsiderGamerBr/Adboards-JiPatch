@@ -9,7 +9,7 @@
   <condition stid="-1" compeid="9" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Premier_League" /><!-- Premier League (Primeira Divisão do Campeonato Inglês) -->
   <condition stid="-1" compeid="10" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Serie_A" /><!-- Serie A TIM (Primeira Divisão do Campeonato Italiano) -->
   <condition stid="-1" compeid="11" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="La_Liga_Ea_Sports" /><!-- La Liga (Primeira Divisão do Campeonato Espanhol) -->
-  <condition stid="-1" compeid="12" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonald's" /><!-- Ligue 1 (Primeira Divisão do Campeonato Francês) -->
+  <condition stid="-1" compeid="12" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- Ligue 1 (Primeira Divisão do Campeonato Francês) -->
   <condition stid="-1" compeid="13" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Eredivisie" /><!-- Eredivisie (Primeira Divisão do Campeonato Holandês) -->
   <condition stid="-1" compeid="14" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Liga_Portugal" /><!-- Liga Portugal (Primeira Divisão do Campeonato Português) -->
   <condition stid="-1" compeid="39" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Bundesligue" /><!-- Bundesliga (Primeira Divisão do Campeonato Alemão) -->
@@ -194,31 +194,31 @@
   <condition stid="-1" compeid="-1" hometeamid="4090" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Official_Ji_Patch" /><!-- -->
 
   <!-- ADBOARDS POR TIME - LIGA FRANCESA -->
-  <condition stid="-1" compeid="-1" hometeamid="210" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="115" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="405" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="1328" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="211" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="415" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="213" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="414" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="181" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="113" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="4123" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="112" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="215" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="216" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="217" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="114" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="1330" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="218" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="418" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="4200" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="403" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="1329" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="1910" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="4213" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="221" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="210" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="115" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="405" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="1328" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="211" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="415" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="213" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="414" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="181" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="113" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="4123" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="112" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="215" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="216" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="217" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="114" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="1330" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="218" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="418" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="4200" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="403" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="1329" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="1910" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="4213" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="221" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonalds" /><!-- -->
 
   <!-- ADBOARDS POR TIME - BUNDESLIGA -->
   <condition stid="-1" compeid="-1" hometeamid="2293" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Bundesligue" /> <!-- FC Augsburg -->
