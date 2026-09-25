@@ -9,7 +9,7 @@
   <condition stid="-1" compeid="9" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Premier_League" /><!-- Premier League (Primeira Divisão do Campeonato Inglês) -->
   <condition stid="-1" compeid="10" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Serie_A" /><!-- Serie A TIM (Primeira Divisão do Campeonato Italiano) -->
   <condition stid="-1" compeid="11" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="La_Liga_Ea_Sports" /><!-- La Liga (Primeira Divisão do Campeonato Espanhol) -->
-  <condition stid="-1" compeid="12" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Ligue_One" /><!-- Ligue 1 (Primeira Divisão do Campeonato Francês) -->
+  <condition stid="-1" compeid="12" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Ligue_One_McDonald's" /><!-- Ligue 1 (Primeira Divisão do Campeonato Francês) -->
   <condition stid="-1" compeid="13" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Eredivisie" /><!-- Eredivisie (Primeira Divisão do Campeonato Holandês) -->
   <condition stid="-1" compeid="14" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Liga_Portugal" /><!-- Liga Portugal (Primeira Divisão do Campeonato Português) -->
   <condition stid="-1" compeid="39" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Bundesligue" /><!-- Bundesliga (Primeira Divisão do Campeonato Alemão) -->
