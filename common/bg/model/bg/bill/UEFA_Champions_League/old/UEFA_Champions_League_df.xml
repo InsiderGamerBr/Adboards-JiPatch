@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bill>
+	<bill path="model/bg/bill/billBody/bill_type_28/bill_df.xml" />
+	<texlist path="model/bg/bill/UEFA_Champions_League/bill_texlist.xml" />
+	<animedata path="model/bg/bill/UEFA_Champions_League/bill_anime.json" />
+	<systemad path="./90systemAd/systemAd_df.xml" />
+</bill>

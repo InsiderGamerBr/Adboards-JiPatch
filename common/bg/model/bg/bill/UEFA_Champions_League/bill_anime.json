@@ -1,0 +1,104 @@
+{
+	"version" : 0.02,
+	"animations" : [
+		[
+			{
+				"animeTime" : 0.0,
+				"scrollType" : 0,
+				"scaleType": 0,
+				"fadeType" : 0,
+				"fadeColor": [1.0, 1.0, 1.0, 1.0],
+				"keys" : [
+					{ "scroll" : 0.0, "scale" : [1.0, 1.0], "fade" : 0.0, "key" : 0.0 },
+					{ "scroll" : 0.0, "scale" : [1.0, 1.0], "fade" : 0.0, "key" : 1.0 }
+				]
+			},
+			{
+				"animeTime" : 0.5,
+				"scrollType" : 0,
+				"scaleType": 0,
+				"fadeType" : 0,
+				"fadeColor": [1.0, 1.0, 1.0, 1.0],
+				"keys" : [
+					{ "scroll" : 0.0, "scale" : [1.0, 1.0], "fade" : 0.0, "key" : 0.0 },
+					{ "scroll" : 0.0, "scale" : [1.0, 1.0], "fade" : 0.5, "key" : 0.5 },
+					{ "scroll" : 0.0, "scale" : [1.0, 1.0], "fade" : 1.0, "key" : 1.0 }
+				]
+			}
+		]
+	],
+	"faceData" : [
+		{
+			"dir" : 0,
+			"data" : [
+			]
+		},
+		{
+			"dir" : 1,
+			"data" : [
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_02", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_02", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_02", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 00 - Ad Panel Left
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_03", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_03", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_03", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }, // 01
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_04", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_04", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_04", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 02
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_01", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_01", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_01", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }, // 03
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_02", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_02", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_02", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 04
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_03", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_03", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_03", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }, // 05
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_04", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_04", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_04", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 06
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_01", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_01", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_01", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }, // 07
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_02", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_02", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_02", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 08
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_03", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_03", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_03", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }, // 09
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_04", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_04", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_04", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 10
+					{"animeList" : [0], "texList" : ["Ucl_00_01"], "idleTime" : 0.0000 }, // 11
+					{"animeList" : [0], "texList" : ["Ucl_00_02"], "idleTime" : 0.0000 }, // 12
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_01", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_01", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_01", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }, // 13
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_02", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_02", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_02", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 14
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_03", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_03", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_03", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }, // 15
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_04", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_04", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_04", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 16
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_01", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_01", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_01", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }, // 17
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_02", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_02", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_02", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 18
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_03", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_03", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_03", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }, // 19
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_04", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_04", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_04", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 20
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_01", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_01", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_01", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }, // 21
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_02", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_02", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_02", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 22
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_03", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_03", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_03", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 } // 23 - Ad Panel Right
+			]
+		}, 
+		{
+			"dir" : 2,
+			"data" : [
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_04", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_04", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_04", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 00 - Last Ad Panel
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_01", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_01", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_01", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }, // 01
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_02", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_02", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_02", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 02
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_03", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_03", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_03", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }, // 03
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_04", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_04", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_04", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 04
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_01", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_01", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_01", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }, // 05
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_02", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_02", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_02", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 06
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_03", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_03", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_03", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }, // 07
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_04", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_04", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_04", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 08
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_01", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_01", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_01", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }, // 09 (Corrigido duplicação)
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_02", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_02", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_02", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 10
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_03", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_03", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_03", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }, // 11
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_04", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_04", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_04", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 12
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_01", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_01", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_01", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }  // 13 - First Ad Panel
+			]
+		}, 
+		{
+			"dir" : 3,
+			"data" : [
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_04", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_04", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_04", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 00 - First Ad Panel
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_01", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_01", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_01", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }, // 01
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_02", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_02", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_02", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 02
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_03", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_03", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_03", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }, // 03
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_04", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_04", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_04", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 04
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_01", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_01", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_01", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }, // 05
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_02", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_02", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_02", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 06
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_03", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_03", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_03", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }, // 07
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_04", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_04", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_04", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 08
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_01", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_01", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_01", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }, // 09
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_02", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_02", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_02", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 10
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_03", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_03", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_03", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }, // 11
+					{"animeList" : [1], "texList" : ["Heineken_01_02", "Heineken_01_04", "Heineken_01_02", "Mastercard_01_02", "QatarAirways_01_02", "Hyundai_01_02", "Hyundai_01_04", "Hyundai_01_02", "Lays_01_02", "Pepsi_01_02", "PlayStation_01_02", "JustEat_01_02", "bet365_01_02", "bet365_01_04", "bet365_01_02", "FedEx_01_02", "Crypto_01_02"], "idleTime" : 20.0000 }, // 12
+					{"animeList" : [1], "texList" : ["Heineken_01_01", "Heineken_01_01", "Heineken_01_01", "Mastercard_01_01", "QatarAirways_01_01", "Hyundai_01_01", "Hyundai_01_01", "Hyundai_01_01", "Lays_01_01", "Pepsi_01_01", "PlayStation_01_01", "JustEat_01_01", "bet365_01_01", "bet365_01_01", "bet365_01_01", "FedEx_01_01", "Crypto_01_01"], "idleTime" : 20.0000 }  // 13 - Last Ad Panel
+			]
+		}
+	]
+}

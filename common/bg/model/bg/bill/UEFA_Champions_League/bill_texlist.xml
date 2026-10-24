@@ -1,0 +1,57 @@
+﻿<?xml version="1.1" encoding="utf-8"?>
+<bill>
+  <!-- UCL (Principais) -->
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/Ucl_00_00.dds" />
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/Ucl_00_01.dds" />
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/Ucl_00_02.dds" />
+
+  <!-- bet365 -->
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/bet365_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/bet365_01_02.dds" />
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/bet365_01_03.dds" />
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/bet365_01_04.dds" />
+
+  <!-- Crypto -->
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/Crypto_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/Crypto_01_02.dds" />
+
+  <!-- FedEx -->
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/FedEx_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/FedEx_01_02.dds" />
+
+  <!-- Heineken -->
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/Heineken_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/Heineken_01_02.dds" />
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/Heineken_01_03.dds" />
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/Heineken_01_04.dds" />
+
+  <!-- Hyundai -->
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/Hyundai_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/Hyundai_01_02.dds" />
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/Hyundai_01_03.dds" />
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/Hyundai_01_04.dds" />
+
+  <!-- JustEat -->
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/JustEat_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/JustEat_01_02.dds" />
+
+  <!-- Lays -->
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/Lays_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/Lays_01_02.dds" />
+
+  <!-- Mastercard -->
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/Mastercard_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/Mastercard_01_02.dds" />
+
+  <!-- Pepsi -->
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/Pepsi_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/Pepsi_01_02.dds" />
+
+  <!-- PlayStation -->
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/PlayStation_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/PlayStation_01_02.dds" />
+
+  <!-- QatarAirways -->
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/QatarAirways_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/UEFA_Champions_League/texture/QatarAirways_01_02.dds" />
+</bill>

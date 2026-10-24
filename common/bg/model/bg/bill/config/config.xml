@@ -1,6 +1,6 @@
 <bill>
   <!-- COMPETIÇÕES INTERNACIONAIS EUROPEIAS -->
-  <condition stid="-1" compeid="2" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="ucl" /><!-- UEFA Champions League (Principal competição de clubes da Europa) -->
+  <condition stid="-1" compeid="2" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="UEFA_Champions_League" /><!-- UEFA Champions League (Principal competição de clubes da Europa) -->
   <condition stid="-1" compeid="3" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="uel" /><!-- UEFA Europa League (Segunda competição de clubes da Europa) -->
   <condition stid="-1" compeid="4" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="usc" /><!-- UEFA Super Cup (Supertaça Europeia entre vencedores da UCL e UEL) -->
   <condition stid="-1" compeid="33" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="euro" /><!-- Euro (Campeonato Europeu de Seleções) -->
@@ -35,7 +35,7 @@
   <condition stid="-1" compeid="34" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="copa" /><!-- Copa América (Campeonato Sul-Americano de Seleções) -->
 
   <!-- LIGAS NACIONAIS AMERICANAS -->
-  <condition stid="-1" compeid="21" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- Brasileirão Betano (Primeira Divisão do Campeonato Brasileiro) -->
+  <condition stid="-1" compeid="21" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- Brasileirão Betano (Primeira Divisão do Campeonato Brasileiro) -->
   <condition stid="-1" compeid="22" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Torneo_Betano" /><!-- Torneo Betano (Primeira Divisão do Campeonato Argentino) -->
   <condition stid="-1" compeid="40" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Categoria_Primera_A" /><!-- Categoria Primera A (Primeira Divisão do Campeonato Colombiano) -->
   <condition stid="-1" compeid="23" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="Liga_de_Primera" /><!-- Liga de Primera (Liga do Campeonato Mexicano) -->
@@ -62,43 +62,43 @@
   <condition stid="-1" compeid="37" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="FIFA_ClubWorldCup25" /><!-- Copa do Mundo de Clubes FIFA 2025 -->
 
   <!-- ADBOARDS POR TIME - CAMPEONATO BRASILEIRO -->
-  <condition stid="-1" compeid="-1" hometeamid="1248" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- CR Flamengo -->
-  <condition stid="-1" compeid="-1" hometeamid="4112" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="4108" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="5060" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="2465" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="2450" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="1937" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="1936" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="1932" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="1931" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="1930" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="1255" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="1254" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="1252" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="1250" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="1249" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="1247" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="1246" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="1245" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="274" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="137" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="136" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="4044" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="2452" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="2453" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="4999" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="4045" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="4043" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="2451" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="2542" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="5200" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="5197" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="5196" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="2542" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="2481" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="4001" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
-  <condition stid="-1" compeid="-1" hometeamid="4039" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Brasileirao_Betano" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="1248" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- CR Flamengo -->
+  <condition stid="-1" compeid="-1" hometeamid="4112" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="4108" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="5060" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="2465" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="2450" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="1937" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="1936" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="1932" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="1931" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="1930" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="1255" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="1254" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="1252" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="1250" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="1249" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="1247" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="1246" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="1245" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="274" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="137" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="136" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="4044" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="2452" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="2453" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="4999" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="4045" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="4043" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="2451" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="2542" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="5200" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="5197" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="5196" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="2542" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="2481" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="4001" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
+  <condition stid="-1" compeid="-1" hometeamid="4039" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Camp_Brasileiro" /><!-- -->
 
   <!-- ADBOARDS POR TIME - LIGA ARGENTINA -->
   <condition stid="-1" compeid="-1" hometeamid="138" teamexclusion="0" language="-1" region="-1" title="-1" pattern="Torneo_Betano" /><!-- -->

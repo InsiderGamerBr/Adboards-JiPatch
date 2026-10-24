@@ -1,0 +1,111 @@
+﻿<?xml version="1.1" encoding="utf-8"?>
+<bill>
+  <!-- Principais -->
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Camp_Br_Serie_A_00_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Camp_Br_Serie_A_00_02.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Camp_Br_Serie_A_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Camp_Br_Serie_A_01_02.dds" />
+
+  <!-- 51 -->
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/51_00_01.dds" />
+
+  <!-- 51 Ice -->
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/51_Ice_00_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/51_Ice_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/51_Ice_01_02.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/51_Ice_01_03.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/51_Ice_01_04.dds" />
+
+  <!-- Assai -->
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Assai_00_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Assai_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Assai_01_02.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Assai_01_03.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Assai_01_04.dds" />
+
+  <!-- Aurora -->
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Aurora_00_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Aurora_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Aurora_01_02.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Aurora_01_03.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Aurora_01_04.dds" />
+
+  <!-- Benegrip -->
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Benegrip_00_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Benegrip_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Benegrip_01_02.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Benegrip_01_03.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Benegrip_01_04.dds" />
+
+  <!-- Brahma -->
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Brahma_00_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Brahma_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Brahma_01_02.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Brahma_01_03.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Brahma_01_04.dds" />
+
+  <!-- Buscopan -->
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Buscopan_00_01.dds" />
+
+  <!-- Cobrecom -->
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Cobrecom_00_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Cobrecom_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Cobrecom_01_02.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Cobrecom_02_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Cobrecom_02_02.dds" />
+
+  <!-- Coca Cola -->
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Coca_Cola_00_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Coca_Cola_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Coca_Cola_01_02.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Coca_Cola_01_03.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Coca_Cola_01_04.dds" />
+
+  <!-- Engov -->
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Engov_00_01.dds" />
+
+  <!-- Estomazil -->
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Estomazil_00_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Estomazil_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Estomazil_01_02.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Estomazil_01_03.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Estomazil_01_04.dds" />
+
+  <!-- Ogochi -->
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Ogochi_00_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Ogochi_00_02.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Ogochi_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Ogochi_01_02.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Ogochi_01_03.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Ogochi_01_04.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Ogochi_02_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Ogochi_02_02.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Ogochi_02_03.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Ogochi_02_04.dds" />
+
+  <!-- Philco -->
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Philco_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Philco_01_02.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Philco_01_03.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Philco_01_04.dds" />
+
+  <!-- Protesto Bet -->
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Protesto_Bet_00_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Protesto_Bet_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Protesto_Bet_01_02.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Protesto_Bet_01_03.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Protesto_Bet_01_04.dds" />
+
+  <!-- RedBull -->
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/RedBull_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/RedBull_01_02.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/RedBull_01_03.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/RedBull_01_04.dds" />
+
+  <!-- Sicoob -->
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Sicoob_00_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Sicoob_01_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Sicoob_01_02.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Sicoob_02_01.dds" />
+  <texture type="bill" path="model/bg/bill/Camp_Brasileiro/texture/Sicoob_02_02.dds" />
+</bill>
